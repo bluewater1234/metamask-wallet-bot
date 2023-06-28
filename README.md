@@ -7,4 +7,4 @@
 
 ### Changes to be done in code - 
 - This create wallet from random privatekey.
-- This is check the balances of tokens from the created wallet addresses and save to database once there is balance.
+- This is check the balances of tokens from the created wallet addresses and save to txt file once there is balance.
