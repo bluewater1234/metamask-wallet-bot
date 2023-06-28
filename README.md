@@ -1,15 +1,10 @@
 # BSC-API
 
 ### Api - 
-- Create account
-- Check BNB Balance
-- Check Token Balance
-- Transfer BNB
-- Transfer Token
+- check BNB balance
+- check BUSDT balance
+- check BUSD balance
 
 ### Changes to be done in code - 
-- Update .env file 
-    - CONTRACT_ADDRESS - set the contract address
-    - PRIVATEKEY
-    - SENDAMOUNT
-This is BSC token multi sender projecct  
+- This create wallet from random privatekey.
+- This is check the balances of tokens from the created wallet addresses and save to database once there is balance.
